@@ -13,3 +13,18 @@ C:\Users\nemes.tamas\source\repos\11F-Gy2-C-\vegyes_feladatok\obj\Debug\net8.0\r
 C:\Users\nemes.tamas\source\repos\11F-Gy2-C-\vegyes_feladatok\obj\Debug\net8.0\vegyes_feladatok.pdb
 C:\Users\nemes.tamas\source\repos\11F-Gy2-C-\vegyes_feladatok\obj\Debug\net8.0\vegyes_feladatok.genruntimeconfig.cache
 C:\Users\nemes.tamas\source\repos\11F-Gy2-C-\vegyes_feladatok\obj\Debug\net8.0\ref\vegyes_feladatok.dll
+C:\Users\Anti\Documents\Programozás 11\gyakorlo-feladatok-1-Anti7117\vegyes_feladatok\obj\Debug\net8.0\vegyes_feladatok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anti\Documents\Programozás 11\gyakorlo-feladatok-1-Anti7117\vegyes_feladatok\obj\Debug\net8.0\vegyes_feladatok.AssemblyInfoInputs.cache
+C:\Users\Anti\Documents\Programozás 11\gyakorlo-feladatok-1-Anti7117\vegyes_feladatok\obj\Debug\net8.0\vegyes_feladatok.AssemblyInfo.cs
+C:\Users\Anti\Documents\Programozás 11\gyakorlo-feladatok-1-Anti7117\vegyes_feladatok\obj\Debug\net8.0\vegyes_feladatok.csproj.CoreCompileInputs.cache
+C:\Users\Anti\Documents\Programozás 11\gyakorlo-feladatok-1-Anti7117\vegyes_feladatok\obj\Debug\net8.0\vegyes_feladatok.sourcelink.json
+C:\Users\Anti\Documents\Programozás 11\gyakorlo-feladatok-1-Anti7117\vegyes_feladatok\obj\Debug\net8.0\vegyes_feladatok.dll
+C:\Users\Anti\Documents\Programozás 11\gyakorlo-feladatok-1-Anti7117\vegyes_feladatok\obj\Debug\net8.0\refint\vegyes_feladatok.dll
+C:\Users\Anti\Documents\Programozás 11\gyakorlo-feladatok-1-Anti7117\vegyes_feladatok\obj\Debug\net8.0\vegyes_feladatok.pdb
+C:\Users\Anti\Documents\Programozás 11\gyakorlo-feladatok-1-Anti7117\vegyes_feladatok\bin\Debug\net8.0\vegyes_feladatok.exe
+C:\Users\Anti\Documents\Programozás 11\gyakorlo-feladatok-1-Anti7117\vegyes_feladatok\bin\Debug\net8.0\vegyes_feladatok.deps.json
+C:\Users\Anti\Documents\Programozás 11\gyakorlo-feladatok-1-Anti7117\vegyes_feladatok\bin\Debug\net8.0\vegyes_feladatok.runtimeconfig.json
+C:\Users\Anti\Documents\Programozás 11\gyakorlo-feladatok-1-Anti7117\vegyes_feladatok\bin\Debug\net8.0\vegyes_feladatok.dll
+C:\Users\Anti\Documents\Programozás 11\gyakorlo-feladatok-1-Anti7117\vegyes_feladatok\bin\Debug\net8.0\vegyes_feladatok.pdb
+C:\Users\Anti\Documents\Programozás 11\gyakorlo-feladatok-1-Anti7117\vegyes_feladatok\obj\Debug\net8.0\vegyes_feladatok.genruntimeconfig.cache
+C:\Users\Anti\Documents\Programozás 11\gyakorlo-feladatok-1-Anti7117\vegyes_feladatok\obj\Debug\net8.0\ref\vegyes_feladatok.dll

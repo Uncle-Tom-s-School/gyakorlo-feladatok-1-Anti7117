@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nemes.tamas\\source\\repos\\vegyes_feladatok\\vegyes_feladatok.csproj": {}
+    "C:\\Users\\Anti\\Documents\\Programozás 11\\gyakorlo-feladatok-1-Anti7117\\vegyes_feladatok\\vegyes_feladatok.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nemes.tamas\\source\\repos\\vegyes_feladatok\\vegyes_feladatok.csproj": {
+    "C:\\Users\\Anti\\Documents\\Programozás 11\\gyakorlo-feladatok-1-Anti7117\\vegyes_feladatok\\vegyes_feladatok.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nemes.tamas\\source\\repos\\vegyes_feladatok\\vegyes_feladatok.csproj",
+        "projectUniqueName": "C:\\Users\\Anti\\Documents\\Programozás 11\\gyakorlo-feladatok-1-Anti7117\\vegyes_feladatok\\vegyes_feladatok.csproj",
         "projectName": "vegyes_feladatok",
-        "projectPath": "C:\\Users\\nemes.tamas\\source\\repos\\vegyes_feladatok\\vegyes_feladatok.csproj",
-        "packagesPath": "C:\\Users\\nemes.tamas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nemes.tamas\\source\\repos\\vegyes_feladatok\\obj\\",
+        "projectPath": "C:\\Users\\Anti\\Documents\\Programozás 11\\gyakorlo-feladatok-1-Anti7117\\vegyes_feladatok\\vegyes_feladatok.csproj",
+        "packagesPath": "C:\\Users\\Anti\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Anti\\Documents\\Programozás 11\\gyakorlo-feladatok-1-Anti7117\\vegyes_feladatok\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\nemes.tamas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Anti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
